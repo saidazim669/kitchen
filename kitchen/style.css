@@ -1,0 +1,147 @@
+.box{
+    color: rgba(176, 204, 13, 1);
+}
+.hug{
+    margin-left: 57px;
+    display: flex;
+    gap: 70px;
+}
+.footr{
+    display: flex;
+    align-items: center;
+}
+.vector{
+    margin-left: 137px;
+    display: flex;
+    align-items: center;
+}
+.eng{
+    display: flex;
+    align-items: center;
+    margin-left: -25px;
+}
+.box-2:hover{
+   color: #585858;
+}
+.dvg{
+    background-color: #ffA800;
+    color: #FFFFFF;
+    height: 35px;
+    width: 140px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 35px;
+}
+.footr{
+  margin: 20px 120px 0px 120px;
+}
+.cp{
+    font-size: 65px;
+    width: 420px;
+    height: 195px;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    margin-left: 102px;
+    padding-top: 54px;
+    color: #FFFFFF;
+}
+.cook{
+    width: 1200px;
+    height: 450px;
+    margin: 141px 120px 0px 120px;
+    border-radius: 55px;
+    background-color: rgba(176, 204, 13, 1);
+}
+.df{
+    font-size: 23px;
+    margin-left: 102px;
+}
+.cmd{
+  width: 202px;
+  height: 55px;
+  border-radius: 32px;
+  margin-left: 102px;
+  font-size: 16px;
+  background-color: #ffA800;
+  color: #FFFFFF;
+}
+.ddf{
+    width: 866px;
+    height: 577px;
+    margin-left: 403px;
+    margin-top: -400px;
+}
+.our-menu{
+    margin-top: 80px;
+    margin-left: 125px;
+}
+.input{
+    display: flex;
+    align-items: center;
+
+}
+.salom{
+    margin-left: -30px;
+}
+.width{
+    width: 1190px;
+    height: 58px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 23px;
+}
+.delivery{
+    margin-left: 125px;
+}
+.rectange{
+ margin-top: 15px;
+}
+.Our-advantages{
+    margin-left: 125px;
+}
+.alfa{
+    width: 182px;
+    height: 55px;
+    background-color: #ffA800;
+    border-radius: 32px;
+}.alfa:hover{
+    background-color: #FFFFFF;
+    color: black;
+}
+.lasso{
+    width: 200px;
+    height: 102px;
+}
+.ss{
+    width: 300px;
+    height: 72px;
+    margin: -30px 0px 0px 0px;
+
+}
+.price{
+    padding: 41px 0px 17px 100px;
+    width: 1146px;
+    height: 320px;
+    margin-top: 25px;
+    margin-left: 125px;
+    background-color:  rgba(176, 204, 13, 1);
+}
+.dashed{
+    display: flex;
+    align-items: center;
+    margin-top: -325px;
+    margin-left: 268px;
+}
+.asad{
+    margin-left: -250px;
+    margin-top: -100px;
+}
+.kitchen.fig{
+    display: flex;
+    width: 1000%;
+}
+.touch{
+   margin-left: 425px;
+}
